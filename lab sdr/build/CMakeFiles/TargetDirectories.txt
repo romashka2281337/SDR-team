@@ -1,0 +1,3 @@
+/home/plutoSDR/Рабочий стол/signal3 triangle/build/CMakeFiles/main.dir
+/home/plutoSDR/Рабочий стол/signal3 triangle/build/CMakeFiles/edit_cache.dir
+/home/plutoSDR/Рабочий стол/signal3 triangle/build/CMakeFiles/rebuild_cache.dir
